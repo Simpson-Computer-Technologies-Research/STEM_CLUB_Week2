@@ -9,7 +9,7 @@ https://replit.com/@realTristan/Python-STEM-Club2
 
 <h3>Project Must Include</h3>
 
-- Minimum of 3 if, else if, else statements
+- Minimum of 2 if, else if, else statements
 - Minimum of 2 print statements
 - Minimum of 1 function
 - Minimum of 1 loop
